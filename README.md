@@ -173,10 +173,10 @@ Aplikasi pengelolaan arsip surat berbasis web yang dibangun dengan Laravel dan B
 
 Untuk bantuan dan pertanyaan, silakan hubungi:
 
--   Email: [email Anda]
--   Program Studi [Nama Program Studi]
--   Institusi [Nama Institusi]
+-   Email: mochammadnadiraflimaulana@gmail.com
+-   Jurusan: Teknologi Informasi
+-   Program Studi: D4 Teknik Informatika
 
 ## Lisensi
 
-Copyright © 2025. Dilindungi Undang-undang.
+Copyright © 2025.
