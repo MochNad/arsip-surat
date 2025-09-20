@@ -54,7 +54,7 @@ Aplikasi pengelolaan arsip surat berbasis web yang dibangun dengan Laravel dan B
 1. Clone repositori
 
     ```bash
-    git clone [url-repositori]
+    git clone https://github.com/MochNad/arsip-surat.git
     cd arsip-surat
     ```
 
